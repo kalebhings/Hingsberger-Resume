@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Kaleb Hingsberger's Resume
+title: Kaleb Hingsberger
 ---
 # Kaleb Hingsberger
 
