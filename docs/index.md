@@ -13,8 +13,8 @@ title: Kaleb Hingsberger
 
 ## Education
 
-`Expected July 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
+`Expected July 2025`
 
 - BS, Computer Science - Computer Information Technology Minor
 - GPA: 3.6
@@ -41,8 +41,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Payment Resolution Specialist
 
-`August 2021 - Current`
 __Conservice__, Rexburg, ID
+`August 2021 - Current`
 
 - Investigated past due balances to determine cause and resolution to ensure client accounts are current and in good-standing.
 - Corresponded with utility providers and clients by phone and email to analyze causes of and resolve past due balances on client accounts to resolve and prevent for future.
@@ -50,8 +50,8 @@ __Conservice__, Rexburg, ID
 
 ### Login Management Specialist
 
-`February 2020 - October 2020`
 __Conservice__, Logan, UT
+`February 2020 - October 2020`
 
 - Managed logins for various utility provider websites to provide quicker access for other teams to manage and pay bills.
 - Mentored new team members to help learn best way to work with utility providers in a timely manner.
@@ -59,8 +59,8 @@ __Conservice__, Logan, UT
 
 ### Produce & Meat Stocker
 
-`August 2018 - April 2020`
 __Walmart__, Logan, UT
+`August 2018 - April 2020`
 
 - Ensured all meat and produce products were available, high quality, fresh, and in stock on sales floor.
 - Organized backroom stock and product on sales floor to assure oldest stock sold first and allowing customers to locate desired items quickly.
@@ -71,8 +71,8 @@ __Walmart__, Logan, UT
 
 ### Full Time Missionary
 
-`November 2020 - July 2021`
 __The Church of Jesus Christ of Latter-day Saints__, Los Angeles, CA
+`November 2020 - July 2021`
 
 - Coached and supported individuals in making lifestyle changes and overcoming addictions.
 - Facilitated trainings on for other groups of 10-20 volunteers.
