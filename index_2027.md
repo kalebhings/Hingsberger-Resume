@@ -1,383 +1,79 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+---
+layout: cv
+title: Kaleb Hingsberger
+---
+# Kaleb Hingsberger
 
-<meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-
-
-<title>Kaleb Hingsberger’s Resume</title>
-<style>
-code{white-space: pre-wrap;}
-span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
-div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-ul.task-list{list-style: none;}
-ul.task-list li input[type="checkbox"] {
-  width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
-  vertical-align: middle;
-}
-</style>
-
-
-<script src="index_files/libs/clipboard/clipboard.min.js"></script>
-<script src="index_files/libs/quarto-html/quarto.js"></script>
-<script src="index_files/libs/quarto-html/popper.min.js"></script>
-<script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="index_files/libs/quarto-html/anchor.min.js"></script>
-<link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="index_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-
-
-</head>
-
-<body class="fullcontent">
-
-<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
-
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Kaleb Hingsberger’s Resume</h1>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<section id="kaleb-hingsberger" class="level1">
-<h1>Kaleb Hingsberger</h1>
 <div id="webaddress">
-<p><a href="kalebhings@gmail.com">kalebhings@gmail.com</a> | <a href="208-970-4649">208-970-4649</a> | <a href="https://www.linkedin.com/in/kalebhings/">LinkedIn</a> | <a href="https://github.com/kalebhings">GitHub</a></p>
+<a href="kalebhings@gmail.com">kalebhings@gmail.com</a>
+| <a href="208-970-4649">208-970-4649</a>
+| <a href="https://www.linkedin.com/in/kalebhings/">LinkedIn</a>
+| <a href="https://github.com/kalebhings">GitHub</a>
 </div>
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<p><code>Expected July 2025</code> <strong>Brigham Young University - Idaho</strong>, Rexburg, ID</p>
-<ul>
-<li>BS, Computer Science - Computer Information Technology Minor</li>
-<li>GPA: 3.6</li>
-<li>Computer Programming Certificate</li>
-</ul>
-</section>
-<section id="computer-skills" class="level2">
-<h2 class="anchored" data-anchor-id="computer-skills">Computer Skills</h2>
-<section id="programming-languages" class="level3">
-<h3 class="anchored" data-anchor-id="programming-languages">Programming Languages</h3>
-<ul>
-<li>C#</li>
-<li>Python</li>
-<li>SQL</li>
-<li>CSS</li>
-<li>HTML</li>
-</ul>
-</section>
-<section id="competent" class="level3">
-<h3 class="anchored" data-anchor-id="competent">Competent</h3>
-<ul>
-<li>Java</li>
-<li>JavaScript</li>
-<li>Kotlin</li>
-<li>Cloud Database</li>
-<li>Networking</li>
-</ul>
-</section>
-</section>
-<section id="work-experience" class="level2">
-<h2 class="anchored" data-anchor-id="work-experience">Work Experience</h2>
-<section id="payment-resolution-specialist" class="level3">
-<h3 class="anchored" data-anchor-id="payment-resolution-specialist">Payment Resolution Specialist</h3>
-<p><code>August 2021 - Current</code> <strong>Conservice</strong>, Rexburg, ID</p>
-<ul>
-<li>Investigated past due balances to determine cause and resolution to ensure client accounts are current and in good-standing.</li>
-<li>Corresponded with utility providers and clients by phone and email to analyze causes of and resolve past due balances on client accounts to resolve and prevent for future.</li>
-<li>Increased client satisfaction and prevented interruption of utility services for clients, leading to significant decrease in late fees, saving both client and company money.</li>
-</ul>
-</section>
-<section id="login-management-specialist" class="level3">
-<h3 class="anchored" data-anchor-id="login-management-specialist">Login Management Specialist</h3>
-<p><code>February 2020 - October 2020</code> <strong>Conservice</strong>, Logan, UT</p>
-<ul>
-<li>Managed logins for various utility provider websites to provide quicker access for other teams to manage and pay bills.</li>
-<li>Mentored new team members to help learn best way to work with utility providers in a timely manner.</li>
-<li>Optimized workload to maximize accounts setup online, leading to other teams completing tasks 70% quicker.</li>
-</ul>
-</section>
-<section id="produce-meat-stocker" class="level3">
-<h3 class="anchored" data-anchor-id="produce-meat-stocker">Produce &amp; Meat Stocker</h3>
-<p><code>August 2018 - April 2020</code> <strong>Walmart</strong>, Logan, UT</p>
-<ul>
-<li>Ensured all meat and produce products were available, high quality, fresh, and in stock on sales floor.</li>
-<li>Organized backroom stock and product on sales floor to assure oldest stock sold first and allowing customers to locate desired items quickly.</li>
-<li>Guided customers to locate all desired products, driving sales and increase in customer satisfaction with fresh product.</li>
-</ul>
-</section>
-</section>
-<section id="volunteer-experience" class="level2">
-<h2 class="anchored" data-anchor-id="volunteer-experience">Volunteer Experience</h2>
-<section id="full-time-missionary" class="level3">
-<h3 class="anchored" data-anchor-id="full-time-missionary">Full Time Missionary</h3>
-<p><code>November 2020 - July 2021</code> <strong>The Church of Jesus Christ of Latter-day Saints</strong>, Los Angeles, CA</p>
-<ul>
-<li>Coached and supported individuals in making lifestyle changes and overcoming addictions.</li>
-<li>Facilitated trainings on for other groups of 10-20 volunteers.</li>
-<li>Performed service for elderly and disabled individuals, volunteering at food banks and similar locations.</li>
-</ul>
-</section>
-</section>
-</section>
 
-</main>
-<!-- /main column -->
-<script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
-      }
-    }
-    return false;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  });
-  function tippyHover(el, contentFn) {
-    const config = {
-      allowHTML: true,
-      content: contentFn,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start'
-    };
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      return note.innerHTML;
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
-      });
-    }
-  }
-});
-</script>
-</div> <!-- /content -->
+## Education
+
+__Brigham Young University - Idaho__, Rexburg, ID
+`Expected July 2025`
+
+- BS, Computer Science - Computer Information Technology Minor
+- GPA: 3.6
+- Computer Programming Certificate
+
+## Computer Skills
+
+### Programming Languages
+* C#
+* Python
+* SQL
+* CSS
+* HTML
+
+### Competent
+* Java
+* JavaScript
+* Kotlin
+* Cloud Database
+* Networking
 
 
+## Work Experience
 
-</body></html>
+### Payment Resolution Specialist
+
+__Conservice__, Rexburg, ID
+`August 2021 - Current`
+
+- Investigated past due balances to determine cause and resolution to ensure client accounts are current and in good-standing.
+- Corresponded with utility providers and clients by phone and email to analyze causes of and resolve past due balances on client accounts to resolve and prevent for future.
+- Increased client satisfaction and prevented interruption of utility services for clients, leading to significant decrease in late fees, saving both client and company money.
+
+### Login Management Specialist
+
+__Conservice__, Logan, UT
+`February 2020 - October 2020`
+
+- Managed logins for various utility provider websites to provide quicker access for other teams to manage and pay bills.
+- Mentored new team members to help learn best way to work with utility providers in a timely manner.
+- Optimized workload to maximize accounts setup online, leading to other teams completing tasks 70% quicker.
+
+### Produce & Meat Stocker
+
+__Walmart__, Logan, UT
+`August 2018 - April 2020`
+
+- Ensured all meat and produce products were available, high quality, fresh, and in stock on sales floor.
+- Organized backroom stock and product on sales floor to assure oldest stock sold first and allowing customers to locate desired items quickly.
+- Guided customers to locate all desired products, driving sales and increase in customer satisfaction with fresh product.
+
+
+## Volunteer Experience
+
+### Full Time Missionary
+
+__The Church of Jesus Christ of Latter-day Saints__, Los Angeles, CA
+`November 2020 - July 2021`
+
+- Coached and supported individuals in making lifestyle changes and overcoming addictions.
+- Facilitated trainings on for other groups of 10-20 volunteers.
+- Performed service for elderly and disabled individuals, volunteering at food banks and similar locations.
